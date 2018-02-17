@@ -37,6 +37,7 @@
 		0C4542C320386BEF00079E9E /* IntegerSplitter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IntegerSplitter.swift; sourceTree = "<group>"; };
 		0C4542C720386C8E00079E9E /* SevenSegmentFormatterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SevenSegmentFormatterTests.swift; sourceTree = "<group>"; };
 		0C4542CA20387AD900079E9E /* SevenSegmentFormatter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SevenSegmentFormatter.swift; sourceTree = "<group>"; };
+		0C4542CD20387C8A00079E9E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +99,7 @@
 			children = (
 				0C4542C320386BEF00079E9E /* IntegerSplitter.swift */,
 				0C4542CA20387AD900079E9E /* SevenSegmentFormatter.swift */,
+				0C4542CD20387C8A00079E9E /* README.md */,
 			);
 			path = "7 Segment display";
 			sourceTree = "<group>";
